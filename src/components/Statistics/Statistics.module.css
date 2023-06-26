@@ -1,0 +1,10 @@
+.list__statistics {
+    list-style: none;
+    text-align: start;
+    padding-left: 70px;
+}
+
+.list__statistics__item {
+    font-size: 18px;
+    font-weight: 500;
+}
